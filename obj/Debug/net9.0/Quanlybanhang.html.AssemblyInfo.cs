@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quanlybanhang.html")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd305be71c94d12419493ac1da1953d8c9353183")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quanlybanhang.html")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quanlybanhang.html")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

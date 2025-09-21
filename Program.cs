@@ -2,12 +2,12 @@
 
 using System;
 
-public class Calculator
+public class Greeter
 {
-    // Hàm cộng 2 số
-    public int Add(int a, int b)
+    // Hàm hiển thị thông điệp chào mừng
+    public void Greet(string name)
     {
-        return a + b;
+        Console.WriteLine("Chào mừng, " + name + "!");
     }
 }
 
@@ -15,7 +15,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Calculator calc = new Calculator();
-        Console.WriteLine("Tổng của 2 và 3 là: " + calc.Add(2, 3));
+        Greeter greeter = new Greeter();
+        greeter.Greet("Minh"); // Gửi tên của người dùng để chào mừng
     }
 }
