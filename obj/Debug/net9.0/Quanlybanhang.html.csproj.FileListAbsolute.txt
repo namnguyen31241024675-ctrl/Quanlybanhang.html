@@ -1,0 +1,15 @@
+C:\Users\Nam\Documents\t\Quanlybanhang.html\bin\Debug\net9.0\Quanlybanhang.html.exe
+C:\Users\Nam\Documents\t\Quanlybanhang.html\bin\Debug\net9.0\Quanlybanhang.html.deps.json
+C:\Users\Nam\Documents\t\Quanlybanhang.html\bin\Debug\net9.0\Quanlybanhang.html.runtimeconfig.json
+C:\Users\Nam\Documents\t\Quanlybanhang.html\bin\Debug\net9.0\Quanlybanhang.html.dll
+C:\Users\Nam\Documents\t\Quanlybanhang.html\bin\Debug\net9.0\Quanlybanhang.html.pdb
+C:\Users\Nam\Documents\t\Quanlybanhang.html\obj\Debug\net9.0\Quanlybanhang.html.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\t\Quanlybanhang.html\obj\Debug\net9.0\Quanlybanhang.html.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\t\Quanlybanhang.html\obj\Debug\net9.0\Quanlybanhang.html.AssemblyInfo.cs
+C:\Users\Nam\Documents\t\Quanlybanhang.html\obj\Debug\net9.0\Quanlybanhang.html.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\t\Quanlybanhang.html\obj\Debug\net9.0\Quanlybanhang.html.sourcelink.json
+C:\Users\Nam\Documents\t\Quanlybanhang.html\obj\Debug\net9.0\Quanlybanhang.html.dll
+C:\Users\Nam\Documents\t\Quanlybanhang.html\obj\Debug\net9.0\refint\Quanlybanhang.html.dll
+C:\Users\Nam\Documents\t\Quanlybanhang.html\obj\Debug\net9.0\Quanlybanhang.html.pdb
+C:\Users\Nam\Documents\t\Quanlybanhang.html\obj\Debug\net9.0\Quanlybanhang.html.genruntimeconfig.cache
+C:\Users\Nam\Documents\t\Quanlybanhang.html\obj\Debug\net9.0\ref\Quanlybanhang.html.dll
