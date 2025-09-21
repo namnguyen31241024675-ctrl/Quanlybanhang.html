@@ -1,0 +1,54 @@
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    // Khai báo lớp Customer (Khách hàng)
+    public class Customer
+    {
+        public string Name { get; set; }
+        public string Email { get; set; }
+
+        public Customer(string name, string email)
+        {
+            Name = name;
+            Email = email;
+        }
+
+        public override string ToString()
+        {
+            return $"{Name} - {Email}";
+        }
+    }
+
+    static void Main()
+    {
+        List<Customer> customers = new List<Customer>();
+
+        // Thêm khách hàng vào danh sách
+        customers.Add(new Customer("Nguyễn Văn A", "nguyenvana@example.com"));
+        customers.Add(new Customer("Trần Thị B", "tranthib@example.com"));
+        customers.Add(new Customer("Lê Minh C", "leminhc@example.com"));
+
+        // Hiển thị danh sách khách hàng
+        Console.WriteLine("Danh sách khách hàng:");
+        foreach (var customer in customers)
+        {
+            Console.WriteLine(customer);
+        }
+
+        // Tìm kiếm khách hàng theo tên
+        Console.WriteLine("\nNhập tên khách hàng cần tìm:");
+        string searchName = Console.ReadLine();
+        Customer foundCustomer = customers.Find(c => c.Name.Contains(searchName));
+
+        if (foundCustomer != null)
+        {
+            Console.WriteLine($"Khách hàng tìm thấy: {foundCustomer}");
+        }
+        else
+        {
+            Console.WriteLine("Không tìm thấy khách hàng.");
+        }
+    }
+}
